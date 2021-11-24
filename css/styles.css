@@ -1,0 +1,73 @@
+.tree1{
+font-family: 'Comforter Brush', cursive;
+color: green;
+margin:0px;
+background-color: #B1E693;
+height:500px;
+text-align: center;
+
+}
+body{
+  margin:0px;
+  padding: 0px;
+  background-color: #A0937D;
+}
+h1{
+  margin: 0px;
+  text-align: center;
+}
+h4{
+  text-align: center;
+   font-family: 'Source Sans Pro', sans-serif;
+}
+.tree2{
+  background-color: #B1E693;
+  height:100px;
+  width:100px;
+  position: absolute;
+  display: inline;
+  top: 400px;
+}
+.tree3{
+  background-color: #B1E693;
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  left: 1436px;
+  top: 400px;
+}
+.cl1{
+  background-color: #B1E693;
+  height:49px;
+  width: 150px;
+  position:  absolute;
+  bottom: 660px;
+}
+.cl2{
+  background-color: #B1E693;
+  height:49px;
+  width: 150px;
+  position: absolute;
+  bottom: 630px;
+  left: 1380px;
+}
+.lisss{
+  height: 210px;
+  width:400px;
+  background-color: #B1E693;
+  position: absolute;
+  bottom: 400px;
+  font-family: 'Comforter Brush', cursive;
+  color: #396EB0;
+}
+.lisss2{
+  height: 210px;
+  width: 400px;
+  background-color: #B1E693;
+  position: absolute;
+  left: 1135px;
+  bottom: 400px;
+  font-family: 'Source Sans Pro', sans-serif;
+  color: #396EB0
+
+}
